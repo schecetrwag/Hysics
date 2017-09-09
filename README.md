@@ -9,7 +9,7 @@ and getting a bigger picture of this crazy technology that surrounds us day to d
 
 My goal is to have a solid understanding of every aspect of computing in general and specialize in Network security and Pentesting. I love astronomy, im fascinated by physics and how the world really is. 
 
-Hope i can contribute something useful to this site and users, altouth i have to learn a lot before i can upload any
+Hope i can contribute something useful to this site and users, although i have to learn a lot before i can upload any
 useful code here...But that's life, always learning something which you knew nothing about the day before.
 
 
